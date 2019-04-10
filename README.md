@@ -8,7 +8,7 @@ General instructions can be found at [draculatheme.com/zsh](https://draculatheme
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 ```
-$ git clone https://github.com/masond/dracula-zsh.git
+$ git clone https://github.com/Mason-D/dracula-zsh.git
 ```
 Then create a symbolic link in oh-my-zsh's theme folder:
 ```
